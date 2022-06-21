@@ -1,0 +1,115 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+.bg-isla{
+    background-image: url(../img/wall.jpg);
+    background-size: auto 100%;
+}
+
+.text-dark-100{
+    color: #000;
+}
+
+nav ul li a{
+    font-size: 16px;
+    font-weight: 800;
+    background-color:#ffcc03;
+    border-radius: 50px;
+    padding:8px 20px !important;
+}
+
+.bg-wall{
+    background-image: url(../img/banner.jpg);
+}
+
+.bg-nft{
+    background-image: url(../img/game.webp);
+    background-size: 100% 100%;
+}
+
+.bg-rmap{
+    background-image: url(/img/nft.jpg);
+    background-size: 100% 100%;
+}
+
+.bg-pika{
+    background: #FFA600;
+}
+
+.bg-green{
+    background-color: #83cb53;
+}
+
+.bg-violet{
+    background-image: url(../img/violet.webp);
+    background-size: 100%;
+}
+
+.bg-dark-100{
+    background: rgba(8,34,78,.9);
+}
+
+.bg-dark-50{
+    background: #141825;
+}
+
+.contract{
+    border: 4px solid #FFCC03;
+    width: 85%;
+    margin: auto;
+    border-radius: 50px;
+    padding: 8px;
+    background-color: rgba(255, 255, 255, 0.685);
+}
+
+.bg-trans{
+    background-color: rgba(255, 255, 255, 0.685);
+}
+
+.contract h3{
+    margin: 0;
+    font-size: 28px;
+    font-weight: 900;
+    color: rgb(255, 145, 0);
+    z-index: 999;
+}
+
+.border-3{
+    border: 4px solid;
+    background-color: des;
+}
+
+.text-yellow{
+    color: rgb(255, 145, 0);
+}
+
+@media only screen and (max-width: 767px) {
+
+    footer h1 {
+        font-size: 28px;
+    }
+
+    footer h3 {
+        font-size: 20px;
+    }
+
+    footer h6{
+        font-size: 13px;
+    }
+  }
+
+  @media only screen and (max-width: 478px) {
+
+    footer h1 {
+        font-size: 25px;
+    }
+
+    footer h3 {
+        font-size: 16px;
+    }
+
+    footer h6{
+        font-size: 13px;
+    }
+  }
